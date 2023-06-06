@@ -1,7 +1,6 @@
 <h2 align='center'><samp><strong>Hi there, I'm Lindo</strong></samp></h2>
 <h3 align='center'><strong><a href="https://lindo-code.github.io/portfolio-website/" target="_blank">Portfolio</a></strong></h3>
 <p align='center'>Web Developer | JavaScript Developer | Node Developer | Writer</p>
-<br>
 <div align=center>
 <h4><b>LANGUAGES AND TOOLS</b></h4>
 <code><img style="padding:.5em;" height="25" alt="javascript" src="https://raw.githubusercontent.com/Lindo-code/portfolio-website/main/assets/icons/js.png"></code>
