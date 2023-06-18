@@ -2,8 +2,13 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Lindo-code/images/main/port/github.png" height="auto" width="200" style="border: 2px solid  gray;">
 </div>
-<h3 align='center'><strong><a href="https://lindo-code.github.io/portfolio-website/" target="_blank">Portfolio</a></strong></h3>
+<br>
 <p align='center'>Web Developer | JavaScript Developer | Node Developer</p>
+<div align="center">
+  <a href="https://lindo-code.github.io/portfolio-website/" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
+  </a>
+</div>
 <div align=center>
   <h4><b>LANGUAGES AND TOOLS</b></h4>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
