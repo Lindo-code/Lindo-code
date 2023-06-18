@@ -1,6 +1,6 @@
 <h2 align='center'><strong>Hi there, I'm Lindo</strong></h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Lindo-code/images/main/port/github.png" height="auto" width="200" style="border: 2px solid  gray;">
+  <img src="https://lh3.googleusercontent.com/a/AAcHTtd4K0UrmvkSQDTef2QBxjZwrrjO4K2ZocUCsi7xFA=s288-c-no" height="auto" width="200">
 </div>
 <br>
 <p align='center'>Web Developer | JavaScript Developer | Node Developer</p>
