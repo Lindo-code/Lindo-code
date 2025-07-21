@@ -49,10 +49,10 @@
 </div>
 <div align="center">
   <h4><b>UPSKILLING</b></h4>
-  <a href="https://www.codewars.com/users/Lindo-code" target="_blank">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank">
-  </a>
   <a href="https://www.hackerrank.com/sdrowvieli11?hr_r=1" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.codewars.com/users/Lindo-code" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank">
   </a>
 </div>
