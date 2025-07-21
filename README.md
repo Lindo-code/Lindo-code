@@ -30,14 +30,14 @@
 <br>
 <div align="center">
   <a href="https://github.com/lindo-code">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lindo-code&show_icons=true&locale=en" alt="lindo"/>
+    <!--<img height="160em" src="https://github-readme-stats.vercel.app/api?username=lindo-code&show_icons=true&locale=en" alt="lindo"/>-->
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lindo-code&show_icons=true&locale=en&layout=compact&" alt="lindo" />
   </a>
 </div>
 <br>
 <div align="center">
   <h4><b>GET INTOUCH</b></h4>
-  <a href="https://lindo-code.github.io/portfolio-website/" target="_blank">
+  <a href="https://lindocode.com/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/lindo-matabane-8939aa229/" target="_blank">
