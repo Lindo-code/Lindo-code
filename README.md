@@ -3,7 +3,7 @@
   <img src="https://lh3.googleusercontent.com/a/AAcHTtd4K0UrmvkSQDTef2QBxjZwrrjO4K2ZocUCsi7xFA=s288-c-no" height="auto" width="200">
 </div>
 <br>
-<p align='center'>Full-Stack Web|Mobile Developer</p>
+<p align='center'><strong>Full-Stack Web|Mobile Developer</strong></p>
 <div align="center">
   <a href="https://lindocode.com/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
