@@ -5,7 +5,7 @@
 <br>
 <p align='center'><strong>Full-Stack Web|Mobile Developer</strong></p>
 <div align="center">
-  <a href="https://lindocode.com/portfolio" target="_blank">
+  <a href="https://portfolio.lindocode.com" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
   </a>
 </div>
@@ -30,7 +30,7 @@
 <br>
 <div align="center">
   <h4><b>💬 LET'S CONNECT</b></h4>
-  <a href="https://lindocode.com/portfolio" target="_blank"  style="text-decoration:none;">
+  <a href="https://portfolio.lindocode.com" target="_blank"  style="text-decoration:none;">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"  style="border:0;">
   </a>
   <a href="https://www.linkedin.com/in/lindo-matabane-8939aa229/" target="_blank"  style="text-decoration:none;">
