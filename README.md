@@ -28,7 +28,7 @@
 
 # dev.profile
 
-I’m a South Africa-based **full-stack web and mobile developer** building practical, polished, and performance-minded digital products. My work spans **frontend interfaces**, **backend systems**, **mobile experiences**, automation, **databases**, **APIs**, and product experiments.
+I’m a **full-stack web and mobile developer** building practical, polished, and performance-minded digital products. My work spans **frontend interfaces**, **backend systems**, **mobile experiences**, automation, **databases**, **APIs**, and product experiments.
 
 **The goal is simple** : build software that looks professional, feels smooth, and solves real problems without unnecessary complexity.
 
