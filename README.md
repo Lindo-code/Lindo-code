@@ -24,12 +24,9 @@
   <a href="https://lindocode.com/contact?theme=minimal"><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/nav-contact.svg" height="28" alt="Contact" /></a>
 </p>
 </div>
-<div align="center">
-  <img src="https://lh3.googleusercontent.com/a/AAcHTtd4K0UrmvkSQDTef2QBxjZwrrjO4K2ZocUCsi7xFA=s288-c-no" height="auto" width="200">
-</div>
 <br>
 
-# Developer Profile
+# Profile
 
 I’m a South Africa-based **full-stack web and mobile developer** building practical, polished, and performance-minded digital products. My work spans **frontend interfaces**, **backend systems**, **mobile experiences**, automation, **databases**, **APIs**, and product experiments.
 
@@ -94,8 +91,14 @@ I’m a South Africa-based **full-stack web and mobile developer** building prac
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"  style="border:0;">
   </a>
 </div>
+<br>
+<br>
+<br>
+<br>
 <div align="center">
-  
+  <div align="center">
+  <img src="https://lh3.googleusercontent.com/a/AAcHTtd4K0UrmvkSQDTef2QBxjZwrrjO4K2ZocUCsi7xFA=s288-c-no" height="auto" width="200">
+</div>
 <br>
 <br>
 <br>
