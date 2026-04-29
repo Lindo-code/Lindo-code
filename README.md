@@ -26,12 +26,13 @@
 </div>
 <br>
 
-# Profile
+# dev.profile
 
 I’m a South Africa-based **full-stack web and mobile developer** building practical, polished, and performance-minded digital products. My work spans **frontend interfaces**, **backend systems**, **mobile experiences**, automation, **databases**, **APIs**, and product experiments.
 
 **The goal is simple** : build software that looks professional, feels smooth, and solves real problems without unnecessary complexity.
 
+<br>
 <br>
 
 | Focus Area | What I Build |
@@ -57,7 +58,7 @@ I’m a South Africa-based **full-stack web and mobile developer** building prac
 
 <br>
 
-## 🛠 LANGUAGES AND TOOLS
+## Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -80,19 +81,9 @@ I’m a South Africa-based **full-stack web and mobile developer** building prac
 
 <br>
 
-## 📈 UPSKILLING
+## 
 
-<div align="center">
-  
-  <a href="https://www.hackerrank.com/sdrowvieli11?hr_r=1" target="_blank"  style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"  style="border:0;">
-  </a>
-  <a href="https://www.codewars.com/users/Lindo-code" target="_blank"  style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"  style="border:0;">
-  </a>
-</div>
-<br>
-<br>
+
 <br>
 <br>
 <div align="center">
@@ -103,7 +94,14 @@ I’m a South Africa-based **full-stack web and mobile developer** building prac
 <br>
 <br>
 <br>
+       
+<div align="center">
+  <a href="https://www.hackerrank.com/sdrowvieli11?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>     
+  <a href="https://www.codewars.com/users/Lindo-code"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/></a>
+</div>
 
+<br>
+<br>
 <sub>© Lindocode Digital · South Africa</sub>
 
 </div>
